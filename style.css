@@ -1,0 +1,208 @@
+{background-color: #F4F3F0;
+color: rgba(28,28,28,1);
+font-size: 17px;
+font-family: sans-serif;}
+
+
+.container {
+  width:; /* set the width of your container */
+  margin: 40px auto; /* set margins: top/bottom: 40px; left/right: automatic */
+object-fit: contain;
+}
+.brown {background: #CBAB8B;
+text-align: center;
+color: white;
+width: ; /* set the width of your container */
+  margin: 40px auto;}
+
+.orange {background: #ECDDC8;
+text-align: center;
+color: white;
+width: ; /* set the width of your container */
+  margin: 40px auto;}
+
+
+@media (max-width: 960px) {
+    .container {width: 700px;}
+    #orange {width: 700px;}
+    #brown {width: 700px;}
+  }
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+    .container  {width: 500px;}
+    .brown  {width: 500px;}
+    .orange {width: 500px;}
+  }
+@media (max-width: 540px) {
+  .container {width:380px}
+  .brown {width:380px}
+  .orange {width:380px}}
+  /* For a screen < 540px, this CSS will be read */
+
+
+
+.child {
+  display: inline-block;
+  border: 1px black;
+  padding: 10rem 10 rem;
+  vertical-align: left;
+  
+
+}
+ h1 { 
+ font-size: xxx-large;
+ font-family: 'sans-serif;';
+ font-weight: 600;
+ text-align: center;
+ font-style: ;
+ display: block;
+ white-space: normal;
+ color: #CBAB8B;
+
+ }
+
+ #hey {color: CBAB8B
+ }
+
+  p {
+ font-size: 40px;;
+ font-weight: 300;
+ text-align: justify;
+ display: block;
+ box-sizing: border-box;
+ }
+
+#top.sep {margin-top: 10px;}
+
+h2 { 
+ font-size: x-large;
+ font-weight: 150;
+ color:#CBAB8B;
+ font-style: italic;
+ margin-left: 70px;}
+
+a {text-decoration: none;
+  font-size: x-large;
+    display: inline;
+    color:rgba(28,28,28,1);
+    border-radius: 4px;
+    text-align: center;
+    transition-delay: 3s;
+    
+  }
+
+#readarticles {text-decoration: none;
+  font-size: x-large;
+    display: inline;
+    color:#CBAB8B; 
+    border-radius: 4px;
+    text-align: center;
+    transition-delay: 3s;
+    margin-left: 130px;
+  }
+
+#button {margin-left:0px;
+    margin-right: 0px;
+    display: block;
+    margin-top: 0px;
+    border-radius: 4px;}
+
+#button:hover
+{margin-left:0px;
+    margin-right: 0px;
+    display: block;
+    margin-top: 0px;
+    border-radius: 4px;
+    background-color:} 
+
+  #circ-img{ border-radius: 50%;
+    box-sizing: border-box;
+    display: block;
+    padding-left: 0px;
+    padding-right: 0px;
+    position: ;
+    vertical-align: top;
+    width: 20%;
+    margin-left: 30px;
+    margin-right: auto;
+    float: right;
+    object-fit: contain;}
+
+.inline {list-style: none;
+padding-left: 0px;
+}
+
+.inline li {display: inline; padding: 10px;}
+
+.inline i {display: inline; font-display: inline; font-size: 50px;}
+.inline a {display: inline; font-display: inline; font-size: 50px;}
+
+#linkedin {padding:10px; float: center;}
+#personal.mail {padding:20px;float: center}
+#other.mail {padding: 60px;float:  center;}
+
+h3 { font-size: large;
+ font-weight: 150;
+ color:#;
+ font-style: normal;
+ line-height: 40px;
+ margin-left: 90px;}
+
+ h4 {
+ font-size: x-large;
+ font-weight: 150;
+ color:rgba(28,28,28,1);
+ font-style: italic;
+ text-align: center;}
+
+
+#brown {background: #CBAB8B;
+text-align: center;
+color: white;
+width: 700px; /* set the width of your container */
+  margin: 40px auto;}
+
+#orange {background: #ECDDC8;
+text-align: center;
+color: white;
+width: 700px; /* set the width of your container */
+  margin: 40px auto;}
+
+.photo_right {text-align: right;}
+
+
+.green {background: #D9D4C1;
+margin-left: 25px;
+margin-right: 25px;
+text-align: center;
+color: white;}
+
+ol {font-size: large;
+ font-weight: 150;
+ color:#;
+line-height: 40px ;
+ font-style: normal;
+ margin-left: 90px;}
+
+
+
+#set {margin-left: 25px;
+margin-right: 25px;}
+
+
+
+.bigcon {margin-left: 1px;
+margin-right: 1px;
+background: white;}
+
+.browncon {width: 700px; /* set the width of your container */
+  margin: 40px auto;}
+
+div { 
+width: 700px;
+margin-left: 30px;
+margin-right: 30px;
+background: white;
+padding: 50px;                             /* Internal space */
+border-radius: 5px;                        /* Small radius */
+box-shadow: 0 20px 40px rgba(0,0,0,.1);    /* Light shadow *
